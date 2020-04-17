@@ -1,6 +1,15 @@
-# ts_simulation
+# NetSimulation
 
 Prosty program sluzacy do symulacji sieci.
+
+### Wymagania
+
+```
+
+networkx:  pip install networkx 
+pyvis:     pip instal pyvis
+
+```
 
 ## Uruchomienie
 
