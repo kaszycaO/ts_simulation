@@ -1,6 +1,6 @@
 # NetSimulation
 
-Prosty program sluzacy do symulacji sieci.
+Prosty program sluzacy do badania niezawodności sieci.
 
 ### Wymagania
 
@@ -30,6 +30,6 @@ Obowiazkowe: (param)
 Dodatkowe:  
 **W przypadku chęci skorzystania nalezy wybrac wszystkie!**
 * MAX -> maksymalna liczba pakietow/sek
-* T_MAX -> maksymalne opoznienie
-* p -> prawdopodobienstwo nieuszkodzenia lacza
+* T_MAX -> maksymalne opóźnienie
+* p -> prawdopodobieństwo nieuszkodzenia łącza
 
