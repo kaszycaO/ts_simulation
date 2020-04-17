@@ -4,8 +4,6 @@ import graph as gr
 
 import calc as c
 
-import numpy as np
-
 import sys
 
 
