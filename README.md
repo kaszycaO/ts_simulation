@@ -18,8 +18,8 @@ Obowiazkowe: (param)
 * T -> modyfikacja struktury grafu
 * none/inny dowolny znak -> badanie podstawowego modelu
 
-Dobrowolne:  
-**Nalezy wybrac wszystkie!**
+Dodatkowe:  
+**W przypadku chęci skorzystania nalezy wybrac wszystkie!**
 * MAX -> maksymalna liczba pakietow/sek
 * T_MAX -> maksymalne opoznienie
 * p -> prawdopodobienstwo nieuszkodzenia lacza
