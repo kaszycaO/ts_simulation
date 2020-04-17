@@ -2,17 +2,17 @@
 
 Prosty program sluzacy do symulacji sieci.
 
-## Usage
+## Uruchomienie
 
 ```
 
-python3 main.py --option {N, C, T, none} MAX T_MAX p
+python3 main.py --option [param] [MAX] [T_MAX] [p]
 
 ```
 
 
 ## Info
-Obowiazkowe:
+Obowiazkowe: (param)
 * N -> modyfikacja macierzy natezen
 * C -> modyfikacja przepustowosci
 * T -> modyfikacja struktury grafu
