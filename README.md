@@ -18,7 +18,7 @@ Obowiazkowe:
 * T -> modyfikacja struktury grafu
 * none/inny dowolny znak -> badanie podstawowego modelu
 
-Dobrowolne
+Dobrowolne: \n
 **Nalezy wybrac wszystkie!**
 * MAX -> maksymalna liczba pakietow/sek
 * T_MAX -> maksymalne opoznienie
