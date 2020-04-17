@@ -13,10 +13,10 @@ python3 main.py --option {N, C, T, none} MAX T_MAX p
 
 ## Info
 Obowiazkowe:
-       * N -> modyfikacja macierzy natezen
-       * C -> modyfikacja przepustowosci
-       * T -> modyfikacja struktury grafu
-       * none/inny dowolny znak -> badanie podstawowego modelu
+* N -> modyfikacja macierzy natezen
+* C -> modyfikacja przepustowosci
+* T -> modyfikacja struktury grafu
+* none/inny dowolny znak -> badanie podstawowego modelu
 
 Dobrowolne
 **Nalezy wybrac wszystkie!**
