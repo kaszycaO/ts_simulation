@@ -18,7 +18,7 @@ python3 main.py --option namefile
 
 
 ## Info
--option:
+--option:
 * --decode
 * --encode
 ##
