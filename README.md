@@ -1,7 +1,5 @@
 # Zad1
 
-Prosty program sluzacy do badania niezawodności sieci.
-
 ### Requirements
 
 ```
