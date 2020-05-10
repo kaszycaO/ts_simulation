@@ -18,8 +18,9 @@ python3 main.py --option namefile
 
 
 ## Info
-*--option:
-** --decode
-** --encode
-namefile:
+-option:
+* --decode
+* --encode
+##
+namefile
 * file where result would be written
